@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "trouble_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "trouble_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trouble_c-Debug-20c7f36afcbf22de02e2.json",
+					"name" : "trouble_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7b2c6\u7ae0/trouble.c/cmake-build-debug",
+		"source" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7b2c6\u7ae0/trouble.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

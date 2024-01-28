@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "praise1_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "praise1_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-praise1_c-Debug-819921e174ea7bb9e583.json",
+					"name" : "praise1_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7b2c3\u7ae0/praise1.c/cmake-build-debug",
+		"source" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7b2c3\u7ae0/praise1.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

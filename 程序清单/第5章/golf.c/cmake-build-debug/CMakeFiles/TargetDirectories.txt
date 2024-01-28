@@ -1,0 +1,3 @@
+/Users/xuzhengkai/CLionProjects/golf.c/cmake-build-debug/CMakeFiles/golf_c.dir
+/Users/xuzhengkai/CLionProjects/golf.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/CLionProjects/golf.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

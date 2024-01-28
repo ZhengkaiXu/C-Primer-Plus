@@ -1,0 +1,3 @@
+/Users/xuzhengkai/Desktop/徐钲开的学习之路/C Primer Plus/第5章/pound.c/cmake-build-debug/CMakeFiles/pound_c.dir
+/Users/xuzhengkai/Desktop/徐钲开的学习之路/C Primer Plus/第5章/pound.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/Desktop/徐钲开的学习之路/C Primer Plus/第5章/pound.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

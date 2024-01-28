@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rules_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rules_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rules_c-Debug-08b58f21e02cf7c53f2b.json",
+					"name" : "rules_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7b2c5\u7ae0/rules.c/cmake-build-debug",
+		"source" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7b2c5\u7ae0/rules.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
