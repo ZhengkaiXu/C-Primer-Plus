@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p_and_s_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "p_and_s_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p_and_s_c-Debug-f433b4942b3791fa20b7.json",
+					"name" : "p_and_s_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7a0b\u5e8f\u6e05\u5355/\u7b2c11\u7ae0/p_and_s.c/cmake-build-debug",
+		"source" : "/Users/xuzhengkai/Desktop/\u5f90\u94b2\u5f00\u7684\u5b66\u4e60\u4e4b\u8def/C Primer Plus/\u7a0b\u5e8f\u6e05\u5355/\u7b2c11\u7ae0/p_and_s.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
