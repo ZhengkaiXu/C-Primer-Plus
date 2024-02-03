@@ -1,0 +1,7 @@
+# ninja log v5
+0	860	1706980658540445961	CMakeFiles/r_driver1_c.dir/main.c.o	d178b13daee5e213
+2	107	1706980955505961542	CMakeFiles/r_driver1_c.dir/s_and_r.c.o	ad453c8524de7a2c
+0	81	1706980979477575684	CMakeFiles/r_driver1_c.dir/s_and_r.c.o	ad453c8524de7a2c
+82	176	1706980979573165373	r_driver1_c	a1d5732642e631bf
+1	86	1706981149453072021	CMakeFiles/r_driver1_c.dir/main.c.o	d178b13daee5e213
+86	193	1706981149561021687	r_driver1_c	a1d5732642e631bf

@@ -1,0 +1,4 @@
+# ninja log v5
+0	781	1706984478430380836	CMakeFiles/manydice_c.dir/main.c.o	8814d9b6be21c6f
+2	783	1706984478430392553	CMakeFiles/manydice_c.dir/diceroll.c.o	1dacc620830ace56
+783	1131	1706984478780711241	manydice_c	caf50f6d6391b6c9
