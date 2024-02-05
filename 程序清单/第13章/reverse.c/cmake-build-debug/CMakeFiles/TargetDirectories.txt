@@ -1,0 +1,3 @@
+/Users/xuzhengkai/Desktop/徐钲开的学习之路/C Primer Plus/程序清单/第13章/reverse.c/cmake-build-debug/CMakeFiles/reverse_c.dir
+/Users/xuzhengkai/Desktop/徐钲开的学习之路/C Primer Plus/程序清单/第13章/reverse.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/Desktop/徐钲开的学习之路/C Primer Plus/程序清单/第13章/reverse.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
