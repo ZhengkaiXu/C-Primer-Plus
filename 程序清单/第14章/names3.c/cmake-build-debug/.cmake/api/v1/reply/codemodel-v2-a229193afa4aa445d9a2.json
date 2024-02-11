@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "names3_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "names3_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-names3_c-Debug-d5a382adabbd2d5f24e9.json",
+					"name" : "names3_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuzhengkai/Desktop/study/C\u8bed\u8a00/C Primer Plus/\u7a0b\u5e8f\u6e05\u5355/\u7b2c14\u7ae0/names3.c/cmake-build-debug",
+		"source" : "/Users/xuzhengkai/Desktop/study/C\u8bed\u8a00/C Primer Plus/\u7a0b\u5e8f\u6e05\u5355/\u7b2c14\u7ae0/names3.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
