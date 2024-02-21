@@ -1,0 +1,6 @@
+# ninja log v5
+1	30	1708541244376231708	CMakeFiles/useheader_c.dir/name_st.c.o	9282b884e41bda55
+0	30	1708541244377674970	CMakeFiles/useheader_c.dir/main.c.o	3cf889f51eed93c8
+31	58	1708541244403756391	useheader_c	e8e0255a5abd96a5
+0	23	1708541332855874935	CMakeFiles/useheader_c.dir/main.c.o	3cf889f51eed93c8
+23	51	1708541332884483263	useheader_c	e8e0255a5abd96a5

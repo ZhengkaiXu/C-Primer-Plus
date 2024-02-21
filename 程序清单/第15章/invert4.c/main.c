@@ -66,5 +66,3 @@ int invert_end(int num, int bits)
 
     return num ^ mask;
 }
-
-

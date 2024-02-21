@@ -1,0 +1,3 @@
+/Users/xuzhengkai/Desktop/study/C-Primer-Plus/程序清单/第15章/binbit.c/cmake-build-debug/CMakeFiles/binbit_c.dir
+/Users/xuzhengkai/Desktop/study/C-Primer-Plus/程序清单/第15章/binbit.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuzhengkai/Desktop/study/C-Primer-Plus/程序清单/第15章/binbit.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
