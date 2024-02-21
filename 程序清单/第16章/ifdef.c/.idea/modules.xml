@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/variaic.c.iml" filepath="$PROJECT_DIR$/.idea/variaic.c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ifdef.c.iml" filepath="$PROJECT_DIR$/.idea/ifdef.c.iml" />
     </modules>
   </component>
 </project>

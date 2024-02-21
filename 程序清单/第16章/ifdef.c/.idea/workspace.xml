@@ -10,7 +10,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="ifdef_c" targetName="ifdef_c" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -18,8 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fccff2ab-a960-4194-96d4-f63b0c66d2b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../第15章/invert4.c/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../第15章/invert4.c/main.c" afterDir="false" />
+    <list default="true" id="39a7c939-06f6-46e2-bdfa-7f833e7d80b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../name_st.c/name_st.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../name_st.c/names_st.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +42,16 @@
     <option name="minorVersion" value="3.4" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2cghtttZPkU7TYAid13OuUBQmE7" />
+  <component name="ProjectId" id="2cgmD4EtXbO3dZhKQkm39YBoJQc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.ifdef_c.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -55,6 +59,10 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -65,16 +73,21 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ifdef_c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ifdef_c" TARGET_NAME="ifdef_c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ifdef_c" RUN_TARGET_NAME="ifdef_c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fccff2ab-a960-4194-96d4-f63b0c66d2b1" name="Changes" comment="" />
-      <created>1708539346261</created>
+      <changelist id="39a7c939-06f6-46e2-bdfa-7f833e7d80b6" name="Changes" comment="" />
+      <created>1708541472225</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708539346261</updated>
-      <workItem from="1708539347332" duration="73000" />
+      <updated>1708541472225</updated>
+      <workItem from="1708541473298" duration="399000" />
     </task>
     <servers />
   </component>
