@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mytype_c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mytype_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mytype_c-Debug-58e9d9086f542417895a.json",
+					"name" : "mytype_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xuzhengkai/Desktop/study/C-Primer-Plus/\u7a0b\u5e8f\u6e05\u5355/\u7b2c16\u7ae0/mytype.c/cmake-build-debug",
+		"source" : "/Users/xuzhengkai/Desktop/study/C-Primer-Plus/\u7a0b\u5e8f\u6e05\u5355/\u7b2c16\u7ae0/mytype.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
