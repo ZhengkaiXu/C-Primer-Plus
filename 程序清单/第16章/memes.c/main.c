@@ -18,6 +18,8 @@ int main()
     show_array(values, SIZE);
     memcpy(target, values, SIZE * sizeof(int));
 //    puts("target ")
+
+
     return 0;
 
 
