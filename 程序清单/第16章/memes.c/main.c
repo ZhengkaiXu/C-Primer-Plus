@@ -17,16 +17,28 @@ int main()
     puts("values (original data): ");
     show_array(values, SIZE);
     memcpy(target, values, SIZE * sizeof(int));
-//    puts("target ")
+    puts("target (copy of values):");
+    show_array(target, SIZE);
 
+    puts("\nUsing memove() with overlapping ranges:");
+    memmove(values + 2, values, 5 * sizeof(int));
+    puts("values -- elements 0-4 copied to 2-6:");
+    show_array(values, SIZE);
 
-
-
-
+    puts("\nUsing memcpy() to copy double to int:");
+    memcpy(target, curious, (SIZE / 2) * sizeof(double));
+    puts("target -- 5 doubles into 10 int positions:");
+    show_array(target, SIZE / 2);
+    show_array(target + 5, SIZE / 2);
 
     return 0;
 
+}
 
-
-
+void show_array(const int ar[], int n) {
+    int i;
+    for (i = 0; i < n;i++) {
+        printf("%d ", ar[i]);
+    }
+    putchar('\n');
 }
