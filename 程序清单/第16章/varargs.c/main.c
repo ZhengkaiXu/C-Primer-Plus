@@ -23,6 +23,7 @@ double sum(int lim, ...)
     int i;
 
 
+
     va_start(ap, lim); // 把ap初始化为参数列表
     for (i = 0; i < lim;i++)
         tot += va_arg(ap, double); // 访问参数列表中的每一项
