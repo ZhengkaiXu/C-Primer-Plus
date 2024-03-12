@@ -1,0 +1,4 @@
+# ninja log v5
+1	90	1710270799514675400	CMakeFiles/use_q_c.dir/queue.c.o	aab7c711a473f04e
+0	90	1710270799514675525	CMakeFiles/use_q_c.dir/main.c.o	5164e6de9e7c87c0
+90	224	1710270799647888564	use_q_c	6414d85eba2ce9b7

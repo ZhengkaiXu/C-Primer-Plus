@@ -55,6 +55,12 @@ build CMakeFiles/use_q_c.dir/main.c.o: C_COMPILER__use_q_c_unscanned_Debug /User
   OBJECT_DIR = CMakeFiles/use_q_c.dir
   OBJECT_FILE_DIR = CMakeFiles/use_q_c.dir
 
+build CMakeFiles/use_q_c.dir/queue.c.o: C_COMPILER__use_q_c_unscanned_Debug /Users/xuzhengkai/Desktop/study/C-Primer-Plus/程序清单/第17章/use_q.c/queue.c || cmake_object_order_depends_target_use_q_c
+  DEP_FILE = CMakeFiles/use_q_c.dir/queue.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/use_q_c.dir
+  OBJECT_FILE_DIR = CMakeFiles/use_q_c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target use_q_c
@@ -63,7 +69,7 @@ build CMakeFiles/use_q_c.dir/main.c.o: C_COMPILER__use_q_c_unscanned_Debug /User
 #############################################
 # Link the executable use_q_c
 
-build use_q_c: C_EXECUTABLE_LINKER__use_q_c_Debug CMakeFiles/use_q_c.dir/main.c.o
+build use_q_c: C_EXECUTABLE_LINKER__use_q_c_Debug CMakeFiles/use_q_c.dir/main.c.o CMakeFiles/use_q_c.dir/queue.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3
   OBJECT_DIR = CMakeFiles/use_q_c.dir
   POST_BUILD = :
