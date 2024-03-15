@@ -80,6 +80,7 @@ static bool ToRight(const Item* i1, const Item* i2) {
         return true;
     } else {
         return false;
+
     }
 }
 
