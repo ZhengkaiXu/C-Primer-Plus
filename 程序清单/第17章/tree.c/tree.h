@@ -64,7 +64,7 @@ bool AddItem(const Item* pi, Tree* ptree);
  *          ptree指向一个已初始化的树*/
 /* 后置条件：如果在树中找到指定项，该函数返回true，
  *           否则返回false*/
-bool InTree(const Item* pi, Tree* ptree);
+bool InTree(const Item* pi, const Tree* ptree);
 
 /* 操作：从树中删除一个项*/
 /* 前提条件：pi是删除项的地址，ptree指向一个已初始化的树*/
