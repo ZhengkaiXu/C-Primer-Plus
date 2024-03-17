@@ -42,7 +42,6 @@ int main(void) {
     }
     DeleteAll(&pets);
     puts("Bye.");
-
     return 0;
 }
 
